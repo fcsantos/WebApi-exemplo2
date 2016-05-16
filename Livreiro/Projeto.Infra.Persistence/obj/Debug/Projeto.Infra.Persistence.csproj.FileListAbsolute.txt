@@ -1,0 +1,16 @@
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Infra.Persistence.dll.config
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Infra.Persistence.dll
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Infra.Persistence.pdb
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Domain.dll
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Entities.dll
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Domain.pdb
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Entities.pdb
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.Migrations.DBCreate.resources
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.csproj.GenerateResource.Cache
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.dll
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.pdb

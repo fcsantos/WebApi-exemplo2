@@ -1,0 +1,4 @@
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Entities\obj\Debug\Projeto.Entities.pdb

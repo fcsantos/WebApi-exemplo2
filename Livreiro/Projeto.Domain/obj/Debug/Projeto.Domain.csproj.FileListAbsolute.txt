@@ -1,0 +1,7 @@
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Domain\bin\Debug\Projeto.Domain.dll
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Domain\bin\Debug\Projeto.Domain.pdb
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Domain\bin\Debug\Projeto.Entities.dll
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Domain\bin\Debug\Projeto.Entities.pdb
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Domain\obj\Debug\Projeto.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Domain\obj\Debug\Projeto.Domain.dll
+C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Domain\obj\Debug\Projeto.Domain.pdb
