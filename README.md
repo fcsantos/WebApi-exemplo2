@@ -1,6 +1,6 @@
 # WebApi-exemplo2
 
-DDD, EF 6, WebApi 2, AutoMapper, Ninject, SOLID
+DDD, EF 6, WebApi 2, AutoMapper, Ninject, SOLID, Facade(DesignPattern)
 
 Em andamento.
 
