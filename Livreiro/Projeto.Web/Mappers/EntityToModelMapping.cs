@@ -20,7 +20,10 @@ namespace Projeto.Web.Mappers
                 .ForMember(dest => dest.NomeEditora, m => m.MapFrom(p => p.Editora.Nome));
 
             Mapper.CreateMap<Autor, AutorModelConsulta>()
-                .ForMember(dest => dest.QtdLivros, m => m.MapFrom(e => e.Livros.Sum(p => p.AutorId)));
+                .ForMember(dest => dest.QtdLivros, m => m.MapFrom(e => e.Livros != null ? e.Livros.Count() : 0));
+
+            Mapper.CreateMap<Editora, EditoraModelConsulta>()
+                .ForMember(dest => dest.QtdLivrosPublicados, m => m.MapFrom(e => e.Livros != null ? e.Livros.Count() : 0));
         }
     }
 }

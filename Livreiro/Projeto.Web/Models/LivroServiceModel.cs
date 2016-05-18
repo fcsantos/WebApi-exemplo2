@@ -13,6 +13,7 @@ namespace Projeto.Web.Models
         public string Titulo { get; set; }
         public string Genero { get; set; }
         public string Sinopse { get; set; }
+        public string Categoria { get; set; }
         public int AutorId { get; set; }
         public string NomeAutor { get; set; }
         public int EditoraId { get; set; }
@@ -25,6 +26,7 @@ namespace Projeto.Web.Models
         public string Titulo { get; set; }
         public string Genero { get; set; }
         public string Sinopse { get; set; }
+        public string Categoria { get; set; }
         public int AutorId { get; set; }        
         public int EditoraId { get; set; }        
     }
@@ -36,6 +38,7 @@ namespace Projeto.Web.Models
         public string Titulo { get; set; }
         public string Genero { get; set; }
         public string Sinopse { get; set; }
+        public string Categoria { get; set; }
         public int AutorId { get; set; }
         public int EditoraId { get; set; }
     }

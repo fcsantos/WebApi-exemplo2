@@ -9,7 +9,8 @@ namespace Projeto.Web.Models
     public class EditoraModelConsulta
     {
         public int IdEditora { get; set; }
-        public string Nome { get; set; }        
+        public string Nome { get; set; }
+        public int QtdLivrosPublicados { get; set; }
     }
 
     public class EditoraModelCadastro
