@@ -9,8 +9,7 @@ namespace Projeto.Infra.Persistence.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = true;
-            AutomaticMigrationDataLossAllowed = true;
+            AutomaticMigrationsEnabled = false;
         }
 
         protected override void Seed(Projeto.Infra.Persistence.Context.DataContext context)

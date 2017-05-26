@@ -54,9 +54,9 @@
     <Compile Include="Configurations\EditoraConfiguration.cs" />
     <Compile Include="Configurations\LivroConfiguration.cs" />
     <Compile Include="Context\DataContext.cs" />
-    <Compile Include="Migrations\201604300838264_DBCreate.cs" />
-    <Compile Include="Migrations\201604300838264_DBCreate.Designer.cs">
-      <DependentUpon>201604300838264_DBCreate.cs</DependentUpon>
+    <Compile Include="Migrations\201705260247402_init.cs" />
+    <Compile Include="Migrations\201705260247402_init.Designer.cs">
+      <DependentUpon>201705260247402_init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -64,11 +64,6 @@
     <Compile Include="Repository\RepositoryBase.cs" />
     <Compile Include="Repository\RepositoryEditora.cs" />
     <Compile Include="Repository\RepositoryLivro.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201604300838264_DBCreate.resx">
-      <DependentUpon>201604300838264_DBCreate.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Projeto.Domain\Projeto.Domain.csproj">
@@ -83,6 +78,11 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201705260247402_init.resx">
+      <DependentUpon>201705260247402_init.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

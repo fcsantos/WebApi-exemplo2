@@ -14,3 +14,19 @@ C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.P
 C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.csproj.GenerateResource.Cache
 C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.dll
 C:\Users\Fcsantos\Documents\Visual Studio 2015\Projects\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.pdb
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Infra.Persistence.dll.config
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Infra.Persistence.dll
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Infra.Persistence.pdb
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Domain.dll
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Entities.dll
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Domain.pdb
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\bin\Debug\Projeto.Entities.pdb
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.dll
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.pdb
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.Migrations.init.resources
+C:\Users\felipe santos\Documents\Visual Studio 2015\Projects\WebApi-exemplo2\Livreiro\Projeto.Infra.Persistence\obj\Debug\Projeto.Infra.Persistence.csproj.GenerateResource.Cache
