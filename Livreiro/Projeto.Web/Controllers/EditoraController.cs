@@ -48,7 +48,7 @@ namespace Projeto.Web.Controllers
                 var e = Mapper.Map<EditoraModelEdicao, Editora>(model);
                 appEditora.Atualizar(e);
 
-                return Request.CreateResponse(HttpStatusCode.OK, "Dados cadastrados.");
+                return Request.CreateResponse(HttpStatusCode.OK, "Dados atualizados.");
             }
             catch (Exception e)
             {
